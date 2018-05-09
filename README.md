@@ -11,5 +11,5 @@ Usage Bootstrap, ngIf and ngFor
 
 Only run 
 > **ng install**
-> **ng serve**
 
+> **ng serve**
